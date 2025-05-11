@@ -49,7 +49,7 @@ const Navbar = () => {
           {/* Mobile Menu Toggle */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden p-2 rounded-md text-gray-700 focus:outline-none"
+            className="md:hidden p-2 rounded-md text-gray-700 focus:outline-none cursor-pointer"
             aria-label="Toggle menu"
           >
             {isOpen ? (
