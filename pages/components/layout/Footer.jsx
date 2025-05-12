@@ -77,10 +77,10 @@ const Footer = () => {
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:info@metaacrepair.com"
+                  href="mailto:abhinavac74@gmail.com"
                   className="hover:text-blue-400 transition"
                 >
-                  info@metaacrepair.com
+                  abhinavac74@gmail.com
                 </a>
               </p>
             </address>

@@ -10,6 +10,7 @@ import ContactUs from "./components/ContactUs";
 import WhatsAppButton from "./components/layout/Whatsapp";
 import AboutUs from "./components/AboutUs";
 import GallerySection from "./components/Gallery";
+import FloatingCallButton from "./components/layout/Mobile";
 
 const LandingPage = () => {
   return (
@@ -36,7 +37,10 @@ const LandingPage = () => {
           <ContactUs />
           <Testimonials />
           <Footer />
-          <WhatsAppButton />
+          <div className="fixed bottom-10 right-10 z-50 flex flex-col space-y-20">
+            <FloatingCallButton />
+            <WhatsAppButton />
+          </div>
         </div>
       </div>
     </>

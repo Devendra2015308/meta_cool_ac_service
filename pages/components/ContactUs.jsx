@@ -63,7 +63,7 @@ const ContactUs = () => {
                 Contact
               </h3>
               <p className="text-gray-600">Phone: +91-7453947573</p>
-              <p className="text-gray-600">Email: support@metaac.com</p>
+              <p className="text-gray-600">Email: abhinavac74@gmail.com</p>
             </div>
 
             <div>

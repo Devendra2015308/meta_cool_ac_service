@@ -5,8 +5,8 @@ import { Dialog } from "@headlessui/react";
 const media = [
   { type: "image", src: "/images/Shop/shop1.jpg", alt: "Shop Image 1" },
   { type: "video", src: "/images/Shop/shopvideo.mp4", alt: "Shop Tour Video" },
-  { type: "image", src: "/images/Shop/shop2.jpg", alt: "Shop Image 2" },
-  { type: "image", src: "/images/Shop/shop3.jpg", alt: "Shop Image 3" },
+  { type: "image", src: "/images/Shop/ac2.jpg", alt: "Shop Image 2" },
+  { type: "image", src: "/images/Shop/ac3.jpg", alt: "Shop Image 3" },
   { type: "image", src: "/images/Shop/shop4.jpg", alt: "Shop Image 4" },
   { type: "image", src: "/images/Shop/shop5.jpg", alt: "Shop Image 5" },
 ];
